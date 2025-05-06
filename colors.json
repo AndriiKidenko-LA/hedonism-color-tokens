@@ -1,0 +1,41 @@
+{
+  "colors": {
+    "beige": {
+      "100": "#FAF8F7",
+      "200": "#F5F0EE",
+      "300": "#D9CEC9"
+    },
+    "bordeaux": {
+      "800": "#6A3724",
+      "900": "#502617"
+    },
+    "black": {
+      "1000": "#1C140C"
+    },
+    "olive": {
+      "300": "#D1E46E",
+      "600": "#88A100",
+      "700": "#5E7F00",
+      "800": "#313612"
+    },
+    "gold": {
+      "200": "#ECE0A7",
+      "500": "#AF6506"
+    },
+    "neutral": {
+      "100": "#FFFFFF",
+      "300": "#C7C7C7",
+      "800": "#555555"
+    }
+  },
+  "semantic": {
+    "primary": "#6A3724",
+    "primary-hover": "#502617",
+    "secondary": "#5E7F00",
+    "secondary-hover": "#313612",
+    "accent": "#AF6506",
+    "background": "#FAF8F7",
+    "text-primary": "#1C140C",
+    "text-secondary": "#555555"
+  }
+}
